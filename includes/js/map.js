@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1IjoibmFtYW5raGFyZSIsImEiOiJja3FmNG9hNngwZmljMnJwZWNjdzBxcHM2In0.mbRobl4AQtQ2z5WqEs31Rw';
+mapboxgl.accessToken = [your-public-token];
         var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/streets-v11',
