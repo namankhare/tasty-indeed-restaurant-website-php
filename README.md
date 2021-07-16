@@ -14,4 +14,7 @@ A restaurant website using PHP and MySQL for group project at Chandigarh Univers
 ## Authors
 Contributors names and contact info
 
-Name: Rashmi Prasad Roy  [@RashmiPrasad23](https://www.linkedin.com/in/rashmi-prasad-roy-867a421b5/)
+* Pranjal  [@pranjal0110](https://github.com/pranjal0110)
+* Naman Khare  [@namankhare](https://github.com/namankhare)
+* Rashmi Prasad Roy  [@RashmiPrasad23](https://github.com/RashmiPrasad23)
+* Sucheta Pal  [@sucheta-pal-5226521b9](https://www.linkedin.com/in/sucheta-pal-5226521b9/)
