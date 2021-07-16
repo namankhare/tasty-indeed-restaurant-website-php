@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300&display=swap');
+.aboutus {
+  background-color: #121212;
+  overflow: hidden;
+  /* background-color: #dd2323; */
+}
+
+.colour-box {
+  /* border: coral 2px solid; */
+  background-image: url('http://localhost/tasty-indeed/includes/images/header-sape.png');
+  background-size: cover;
+  background-attachment: scroll;
+  background-color: #80a2dd;
+  height: 52%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12rem 0rem;
+  margin: 2rem 14rem;
+  /* box-shadow: 8px 8px  #ffbd44; */
+  box-sizing: border-box;
+}
+
+
+.take-img img {
+  height: 50vh;
+  width: 40vw;
+  /* margin: -15rem 4rem 6rem 23rem; */
+  display: block;
+  margin: -19rem auto;
+  border: 3px solid white;
+  
+}
+.founders img {
+  height: 110px;
+  width: 150px;
+  /* margin: -15rem 4rem 6rem 23rem; */
+  display: block;
+  margin: -14rem auto;
+  padding: 2px;
+  border: 3px solid white;
+  
+}
+.under{
+display: flex;
+justify-content: center;
+}
+#tag-line h2 {
+  
+    font-family: "Dancing Script", cursive;
+  letter-spacing: 1px;
+  color: white;
+  margin: 2rem 5rem;
+  text-align: center;
+  font-size: 4.5rem;
+  color: #ffbd44;
+  /* text-shadow: 5px 5px white; */
+  font-family: 'Tangerine', cursive;
+}
+#tag-line1 h2 {
+  
+    font-family: "Dancing Script", cursive;
+  letter-spacing: 1px;
+  color: white;
+  margin: -9rem 5rem;
+  text-align: center;
+  font-size: 4.5rem;
+  color: #0e0901;
+  /* text-shadow: 5px 5px white; */
+  font-family: 'Tangerine', cursive;
+}
+.about p {
+  color: white;
+  color: #ffbd44;
+  margin: 21rem 27rem;
+  font-size: 1.6rem;
+  text-align: justify;
+  font-family: "Lemonada", cursive;
+}
+.names
+{
+    color: white;
+    padding: 2rem;
+    margin: 2.5rem;
+    font-family: "Lemonada", cursive;
+    font-size: 1.1rem;
+}
+.order
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+@media only screen and (max-width: 768px) {
+  .about .p{
+    margin: 21rem 10rem;
+  }
+}

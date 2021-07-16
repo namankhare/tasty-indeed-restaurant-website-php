@@ -1,0 +1,54 @@
+
+.frontCard.siCardA{
+    background-image: url(includes/images/soup/greek-salad-2.jpg);
+}
+.frontCard.siCardB{
+    background-image: url(includes/images/soup/Boondi-Raita-1-of-4-500x500.jpg);
+}
+.frontCard.siCardC{
+    background-image: url(includes/images/soup/Thai-Chicken-Larb-Gai-S1.jpg);
+}
+.frontCard.siCardD{
+    background-image: url(includes/images/soup/Low-carb-Caesar-salad-3.jpg);
+}
+.frontCard.siCardE{
+    background-image: url(includes/images/soup/Tomato-Cucumber-Salad-Recipe-8.jpg);
+}
+.frontCard.siCardF{
+    background-image: url(includes/images/soup/FG-healthy-spinach-salad-recipe.jpg);
+    
+}
+.frontCard.siCardG{
+    background-image: url(includes/images/soup/saladsq.jpg);
+    border: 2px solid rgb(180, 174, 174);
+    
+}
+.frontCard.siCardH{
+    background-image: url(includes/images/soup/pickled-cucumber-onion-salad.jpg);
+}
+/*...................................................................................................  */
+.frontCard.siCardI{
+    background-image: url(includes/images/soup/The-Best-Ever-Tomato-Soup_EXPS_THSO18_222724_D03_06_5b.jpg);
+}
+.frontCard.siCardJ{
+    background-image: url(includes/images/soup/Clear-Chicken-Soup-2-3-500x500.jpg);
+}
+.frontCard.siCardK{
+    background-image: url(includes/images/soup/image.jfif);
+}
+.frontCard.siCardL{
+    background-image: url(includes/images/soup/Homemade-Vegetable-Soup-Recipe-2-1200.jpg);
+    border: 2px solid rgb(145, 132, 132);
+}
+.frontCard.siCardM{
+    background-image: url(includes/images/soup/PumpKinSoup.jfif);
+}
+.frontCard.siCardN{
+    background-image: url(includes/images/soup/Basically-Lemony-Chicken-Orzo-Soup.jpg);
+}
+.frontCard.siCardO{
+    background-image: url(includes/images/soup/Asparagus.jfif);
+}
+.frontCard.siCardP{
+    background-image: url(includes/images/soup/shutterstock_523395667.jpg);
+}

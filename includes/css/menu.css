@@ -1,0 +1,83 @@
+body{
+    background-color: #121212;
+    overflow: hidden;
+  }
+  
+  .menu-is-in-it{
+  
+    width: 100%;
+    text-align: center;
+  }
+    .cardAlign1 {
+      display: inline-flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .title1 {
+      text-align: center;
+      text-decoration: underline;
+      color: var(--primary);
+      color: #fe5634;
+      padding: 3rem;
+    }
+    .cardWrapper1 {
+      border-radius: 10px;
+    position: relative;
+    min-height: 100%;
+    width: 270px;
+    flex-direction: row;
+    margin: 20px;
+    }
+    
+    .sCard1 {
+      border-radius: 10px;
+      height: 346px;
+      width: 100%;
+      transition: transform 0.7s ease-in-out;
+    }
+    .sCard1:hover {
+      transform: scale(0.95);
+    }
+    .frontCard {
+      display: block !important;
+      border-radius: 15px;
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      width: 96%;
+      height: 84%;
+      backface-visibility: hidden;
+      color: white;    
+      position: relative;
+    }
+
+    
+#box1 {
+    background-color: rgb(238, 12, 87);
+    color: white;
+  }
+  #box2 {
+  
+    background-color: rgb(68 230 54);
+    color: white;
+  }
+  #box1, #box2 {
+    font-size: 20px;
+    width: 164px;
+    text-align: center;
+   
+    float: left;
+    margin: -3rem -14rem;
+    position: absolute;
+    border-radius: 5px;
+  }
+  
+  
+  /* Pricing */
+  .price-box {
+      
+      font-weight: bold;
+      padding: 0.5rem 2.5rem;
+    background-color: orange;
+  }
+  
+    
