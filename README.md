@@ -17,4 +17,4 @@ Contributors names and contact info
 * Pranjal  [@pranjal0110](https://github.com/pranjal0110)
 * Naman Khare  [@namankhare](https://github.com/namankhare)
 * Rashmi Prasad Roy  [@RashmiPrasad23](https://github.com/RashmiPrasad23)
-* Sucheta Pal  [@sucheta-pal-5226521b9](https://www.linkedin.com/in/sucheta-pal-5226521b9/)
+* Sucheta Pal  [@sucheta11-pal](https://github.com/sucheta11-pal)
